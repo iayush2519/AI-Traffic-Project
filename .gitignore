@@ -1,0 +1,9 @@
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+backend/data/
+*.csv
+node_modules/
+__pycache__/
+*.pyc
